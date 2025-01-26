@@ -1,6 +1,6 @@
 [center][solcrest][/center]
-[center][small][i]This paper has been transmitted by the Command of the SEV Torch[/i][/small][/center][hr][hr][small]Date: [field]
-Time: [field]
+[center][small][i]This paper has been transmitted by the Command of the SEV Torch[/i][/small][/center][hr][hr][small]Date: [date]
+Time: [time]
 
 Name: [field]
 Rank: [field]
@@ -11,4 +11,4 @@ Subject: [field]
 Transmission:
 [field]
 
-[/small][hr][hr][small][i]Signed, [sign][/i][/small]
+[/small][hr][hr][small][i]Signed, [field][/i][/small]
