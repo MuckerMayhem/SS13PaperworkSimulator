@@ -10,8 +10,8 @@
         "Medical": "records/medical.txt",
         "Security": "records/security.txt",
         "Exploitable":  {
-            "Basic": "records/antag.txt",
-            "DIAS": "records/antag_dias.txt"
+            "Basic": "records/exploitable/antag.txt",
+            "DIAS": "records/exploitable/antag_dias.txt"
         },
         "Records (SierraKomodo)": {
             "Public/Header (Contractor)": "records/sierrakomodo/public_contractor.txt",
