@@ -11,6 +11,7 @@
         "Security": "records/security.txt",
         "Exploitable":  {
             "Basic": "records/exploitable/antag.txt",
+            "Expanded": "records/exploitable/antag2.txt",
             "DAIS": "records/exploitable/antag_dias.txt"
         },
         "Records (SierraKomodo)": {
@@ -55,7 +56,11 @@
         "Cyber Security Report": "engineering/cybersec_report.txt",
         "General Status Report": "engineering/general_status.txt",
         "General Wire Report": "engineering/general_wire_report.txt",
-        "Secure Wire Report": "engineering/secure_wire_report.txt"
+        "Secure Wire Report": "engineering/secure_wire_report.txt",
+        "SM Watch Report": "engineering/sm_watch_report.txt",
+        "Robotics": {
+            "Modification Log": "engineering/robotics_modification_log.txt"
+        }
     },
     "Exploration": {
         "Away Team Manifest": "exploration/away_manifest.txt",
