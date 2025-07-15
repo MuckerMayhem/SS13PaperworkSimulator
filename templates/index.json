@@ -11,7 +11,7 @@
         "Security": "records/security.txt",
         "Exploitable":  {
             "Basic": "records/exploitable/antag.txt",
-            "DIAS": "records/exploitable/antag_dias.txt"
+            "DAIS": "records/exploitable/antag_dias.txt"
         },
         "Records (SierraKomodo)": {
             "Public/Header (Contractor)": "records/sierrakomodo/public_contractor.txt",
