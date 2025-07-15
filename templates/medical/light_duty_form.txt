@@ -1,0 +1,16 @@
+[pre]1050-92
+Issued [date][/pre][h2][center]LIGHT DUTY SLIP[/h2][table][cell][center]
+[table][cell][h3]Servicemember Details:[/h3][grid][cell][b]Rank / Rate[/b][cell]: [field]
+[row][cell][b]Name[/b][cell]: [field]
+[row][cell][b]Assignment[/b][cell]: [field][/table]
+[cell][h3]Physician Details:[/h3][grid][cell][b]Rank[/b][cell]: [field]
+[row][cell][b]Name[/b][cell]: [field]
+[row][cell][b]Assignment[/b][cell]: [field]
+[row][cell][b]Signature[/b][cell]: [field][/table][/table][/center]
+[table][cell][b]Nature of Status[/b][cell][field][row][cell][b]Restrictions[/b][cell][field][/table]
+[b]Physician's Remarks:[/b]
+[field]
+
+[hr]1. [b][u]Definition.[/u][/b] A member is in light duty status when it is necessary to evaluate the effect that an illness, injury, or disease process has on a service member’s ability to be in a medically unrestricted duty status.
+[hr]2. [b][u]Maximum Time in Status.[/u][/b] A physician may recommend up to 3 periods of 30 days of light duty when the member is expected to be returned to full duty within those 90 days.
+Some conditions may require referral to the local Military Treatment Facility (MTF) for dictation of a Medical Evaluation Board (MEB), if warranted.[/table]

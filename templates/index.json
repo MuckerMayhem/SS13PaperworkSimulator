@@ -32,6 +32,11 @@
         "SITREP": "command/sitrep.txt",
         "General Transmission": "command/transmission.txt",
         "Visa Issuing Form": "command/visa.txt",
+        "Internal Communication": "command/internal_communication.txt",
+        "Discplinary Report": "command/disciplinary_report.txt",
+        "Equipment Transfer Form": "command/equipment_transfer_form.txt",
+        "Funding Request": "command/funding_request.txt",
+        "NJP Form": "command/njp_form.txt",
         "Command (EXO)": {
             "Complaint (EXO Personnel)": "command/exo/complaint_exo.txt",
             "Complaint (Non-EXO Personnel)": "command/exo/complaint_nexo.txt",
@@ -46,7 +51,11 @@
         }
     },
     "Engineering": {
-        "Area Inspection": "engineering/compliance.txt"
+        "Area Inspection": "engineering/compliance.txt",
+        "Cyber Security Report": "engineering/cybersec_report.txt",
+        "General Status Report": "engineering/general_status.txt",
+        "General Wire Report": "engineering/general_wire_report.txt",
+        "Secure Wire Report": "engineering/secure_wire_report.txt"
     },
     "Exploration": {
         "Away Team Manifest": "exploration/away_manifest.txt",
@@ -61,7 +70,8 @@
         "Cyborgification Waiver": "medical/cyborgification.txt",
         "Blood Donation": "medical/blood_donation.txt",
         "Prescription": "medical/prescription.txt",
-        "Discharge": "medical/discharge.txt"
+        "Discharge": "medical/discharge.txt",
+        "Light Duty Form": "medical/light_duty_form.txt"
     },
     "Research": {
         "Anomaly Report": "research/anomaly.txt",

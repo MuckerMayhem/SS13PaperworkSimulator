@@ -1,0 +1,56 @@
+[table][cell][table][cell][center][h2][u]FUNDING REQUEST CHIT[/u][/h2][/center][row][cell][b]Request Date:[/b] [field]
+[b]Request Time:[/b] [field]
+[row][cell][grid][cell][b]PETITIONER DETAILS:[/b]
+
+[grid][row][cell][b]RANK / RATE[/b][cell]: [field]
+[row][cell][b]FULL NAME[/b][cell]: [field]
+[row][cell][b]SERVICE NO.[/b][cell]: [field]
+[row][cell][b]DEPARTMENT[/b][cell]: [field]
+[row][cell][b]SIGNATURE[/b][cell]: [field][/grid]
+
+
+[cell]|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|[cell][b]REQUEST DETAILS:[/b]
+
+[center][table][row][cell][b]AMOUNT (T)[cell][b]PURPOSE[cell][b]APPROVED?
+[row][cell][field][cell][field][cell][center][b][field]
+[row][cell][field][cell][field][cell][center][b][field]
+[row][cell][field][cell][field][cell][center][b][field]
+[row][cell][field][cell][field][cell][center][b][field]
+[row][cell][field][cell][field][cell][center][b][field][/table][/center][/grid][hr][small][fontred]IMPORTANT:[/font] DO NOT LEAVE ANY ROWS BLANK.
+FILL ALL UNUSED ROWS WITH "N/A" TO PREVENT FRAUDULENT USE OF THIS FORM. 
+FRAUDULENT USE AND NEGLIGENT PREPARATION OF THIS FORM ARE PUNISHABLE BY LAW AND THE SCUJ.[/small]
+
+[grid][cell][b]TOTAL REQUESTED AMOUNT:[/b][cell] T [field]
+[row][cell][b]TOTAL AUTHORIZED AMOUNT:[/b][cell] T [field][/grid]
+[row][cell]
+[grid][cell][b]DISBURSAL DETAILS:[/b]
+[list][*]Disbursing Account: [field][*]Cash: T [field]
+[*]Credit Chip(s):[list][*]Number of Chips: [field]
+[*]Amount per Chip: T [field][/list][/list][cell]|
+|
+|
+|
+|
+|
+|
+|[cell][b]AUTHORIZING OFFICER:[/b]
+
+[grid][row][cell][b]RANK[/b][cell]: [field]
+[row][cell][b]FULL NAME[/b][cell]: [field]
+[row][cell][b]SIGNATURE[/b][cell]: [field]
+[row][cell][b]DATE[/b][cell]: [field]
+[row][cell][b]TIME[/b][cell]: [field][/grid][/grid]
+[row][cell][b]NOTES / SPECIAL INSTRUCTIONS:[/b]
+[field]
+
+[row][cell][hr][center][b]STAMP BELOW TO AUTHORIZE[/b][/center][hr][row][cell][table][cell][small][i]This form documents the request and authorization of governmental funds. All requests require proper justification and authorization as indicated above. Misuse of funds or fraudulent requests are subject to disciplinary action under the SCUJ. Retain a copy of this form for your records.[/i][/small][/table][/table][/table]

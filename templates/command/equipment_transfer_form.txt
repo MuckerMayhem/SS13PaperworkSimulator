@@ -1,0 +1,48 @@
+[center][h2][u]EQUIPMENT TRANSFER SLIP[/u][/h2][/center][hr]
+[b]Request Date:[/b] [field]
+[b]Request Time:[/b] [field]
+[b]Issue Date:[/b] [field]
+[b]Issue Time:[/b] [field]
+
+[hr]
+[b]ITEM(s) REQUESTED:[/b]
+
+[table][row][cell][b]ITEM[/b][cell][b]AMOUNT/QUANTITY[/b][cell][b]REASON FOR REQUEST[/b]
+[row][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][/table]
+[small]IMPORTANT: DO NOT LEAVE ANY ROWS BLANK. FILL ALL UNUSED ROWS WITH "N/A" TO PREVENT FRAUDULENT USE OF THIS FORM. 
+FRAUDULENT USE AND NEGLIGENT PREPARATION OF THIS FORM ARE PUNISHABLE BY LAW AND THE SCUJ.[/small]
+
+[hr]
+[b]REQUESTOR:[/b]
+
+[grid][row][cell][b]RANK / RATE[/b][cell]: [field]
+[row][cell][b]FULL NAME[/b][cell]: [field]
+[row][cell][b]ASSIGNMENT[/b][cell]: [field]
+[row][cell][b]SIGN[/b][cell]: [field]
+[row][cell][b]DATE[/b][cell]: [field]
+[row][cell][b]TIME[/b][cell]: [field][/grid]
+[hr]
+[b]ISSUING PARTY:[/b]
+
+[grid][row][cell][b]RANK / RATE[/b][cell]: [field]
+[row][cell][b]FULL NAME[/b][cell]: [field]
+[row][cell][b]ASSIGNMENT[/b][cell]: [field]
+[row][cell][b]SIGN[/b][cell]: [field]
+[row][cell][b]DATE[/b][cell]: [field]
+[row][cell][b]TIME[/b][cell]: [field][/grid]
+[hr]
+[b]ISSUING DEPARTMENT HEAD:[/b]
+
+[grid][row][cell][b]RANK[/b][cell]: [field]
+[row][cell][b]FULL NAME[/b][cell]: [field]
+[row][cell][b]ASSIGNMENT[/b][cell]: [field]
+[row][cell][b]SIGN[/b][cell]: [field]
+[row][cell][b]DATE[/b][cell]: [field]
+[row][cell][b]TIME[/b][cell]: [field][/grid]
+
+[b]STAMP BELOW TO AUTHORIZE[/b]
+[hr][small][i]This form documents the temporary transfer of equipment from departmental stores to personnel outside the issuing department's chain of command. All transfers require proper authorization as indicated above. Equipment must be returned in full working condition or equivalently replaced upon completion of the stated need.[/i][/small]

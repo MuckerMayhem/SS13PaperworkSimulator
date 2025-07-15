@@ -1,0 +1,21 @@
+[table][cell][table][cell][center][pre][h3]  STATUS  
+[row][cell][pre]REPORTED
+Time: [field]
+[row][cell][pre]LOCATED
+Time: [field]
+[row][cell][pre]ENGAGED
+Time: [field]
+[row][cell][pre]CONTAINED
+Time: [field]
+[row][cell][pre]NO CAS.
+Time: [field]
+[/table][cell][grid][cell][pre][b]LOC.:[cell][small][field]
+[row][cell][pre][b]TYPE:[cell][small][field]
+[row][cell][pre][small]MSG. #:[cell] [small][u][field][/u][/small][/grid]
+[pre][center][grid][cell][center][b]FROM[cell][cell][center][b]TO
+[row][cell][center][u][field][cell][center][u][small]|[field]|[cell][center][u][field]
+[row][cell][center][u][field][cell][center]SL[cell][center][u][field]
+[row][cell][center][u][field][cell][center]INV[cell][center][u][field]
+[row][cell][center][u][field][cell][center]FLY[cell][center][u][field]
+[row][cell][center][u][field][cell][center]DCC[cell][center][u][field]
+[row][cell][center][u][field][cell][center]BRDG[cell][center][u][field][/grid][/grid][pre]REMARKS:[/pre]

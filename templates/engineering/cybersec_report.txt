@@ -1,0 +1,40 @@
+[table][cell][table][cell]
+[center][solcrest]
+
+[h1][u]CYBERSECURITY INCIDENT REPORT[/u][/h1][h3]SCG-REP-13[/h3][row][cell][center][table][cell][b]INCIDENT REFERENCE #:[/b] [field]
+[table][cell][b]DATE OF INCIDENT 
+[cell][b]TIME DETECTED
+[row][cell][center][field][cell][center][field][/table][/table][row][cell][center][h3]INCIDENT CLASSIFICATION:[/h3][table][cell][b]STATUS[/b][cell][b]PRIORITY[/b][cell][b]CATEGORY[/b]
+[row][cell][field][cell][field][cell][field][/table][/center]
+[small]Status: Active / Contained / Resolved
+Priority: 1 to 5, 1 being negligible and 5 being critical
+Category: (e.g., Data Breach, System Compromise, Malware, Network Intrusion)[/small]
+[row][cell][center][h3]INCIDENT SUMMARY:[/h3][table][cell][center][b]AFFECTED SYSTEMS:[/b]
+[table][row][cell][b]SYSTEM/ASSET[cell][b]LOCATION[cell][b]IMPACT
+[row][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][/table][cell][center][b]IMMEDIATE ACTIONS:[/b][table][row][cell][b]ACTION[cell][b]PERFORMED BY
+[row][cell][field][cell][field]
+[row][cell][field][cell][field]
+[row][cell][field][cell][field][/table][/table][/center]
+[b]Notes:[/b]
+[field]
+[row][cell][center][h3]INCIDENT DETAILS:[/h3][/center][grid][cell][row][cell][b]Point(s) of Entry[/b][cell]: [field]
+[row][cell][b]Scope of Impact[/b][cell]: [field][/grid]
+[b]Incident Description:[/b]
+[field]
+
+[b]Systems/Data Compromised:[/b]
+[field]
+
+[row][cell][table][cell][b]REPORTING TECHNICIAN:[/b]
+
+[grid][row][cell][b]RANK / RATE[/b][cell]: [field]
+[row][cell][b]FULL NAME[/b][cell]: [field]
+[row][cell][b]SERVICE NUMBER[/b][cell]: [field]
+[row][cell][b]DEPARTMENT[/b][cell]: [field]
+[row][cell][b]ASSIGNMENT[/b][cell]: [field]
+[row][cell][b]DATE[/b][cell]: [field][/grid][cell][b]SIGNATURE:[/b]
+
+[center][field][/table][hr][center][b]STAMP BELOW TO CERTIFY[/b]
+[row][cell][small][i]CONFIDENTIAL: This document may contain sensitive information. Distribution restricted to authorized personnel only. Unauthorized disclosure may result in disciplinary action under the SCUJ.[/i][/small][/table][/table]

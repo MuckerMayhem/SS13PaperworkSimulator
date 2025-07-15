@@ -1,0 +1,36 @@
+[table][row][cell][table][row][cell][center][h2][fleetlogo][hr][pre]     RECORD OF NON-JUDICIAL PUNISHMENT    
+[/h2][date][/center][row][cell][pre]FOR OFFICIAL USE ONLY[small]   [/small]                                    
+[i]The contents of this document are [b]classified[/b] and may not
+be viewed, distributed or handled without sufficient
+clearance or permission.[/i]
+[center]SOL CENTRAL GOVERNMENT FLEET[/table][table][row][cell][pre][b]Issued to:
+NAME                                [/b]
+
+[field][/b][cell][pre]
+[b]RANK [small]       
+[/small][/b]
+
+[field][cell][pre][b]
+POSITION    [/b]
+
+
+[field][/table][table][row][cell][pre][b]OFFENSE:[small]        [/small]                                              
+[/b]
+[[field]] Absence Without Leave (AWoL)  
+[[field]] General Article/Conduct Unbecoming
+[[field]] Failure to Obey an Order, Procedure or Regulation
+[[field]] Insubordination
+[[field]] Mishandling and Negligent Use of Equipment
+[row][cell][pre][b]PUNISHMENT:[small]        [/small]                                           [/b][/pre][small][field][/small][row][cell][pre][b]REASON FOR NJP:[small]        [/small]                                       [/b][/pre][small][field][/small][/table][table][row][cell][pre][b]Issued by:
+NAME                                [/b]
+
+[field][/b][cell][pre]
+[b]RANK [small]       
+[/small][/b]
+
+[field][cell][pre][b]
+POSITION    [/b]
+
+
+[field][/table][b][center][pre]SIGNATURE:
+[/b][/center][center][field][/center][/table][/table]

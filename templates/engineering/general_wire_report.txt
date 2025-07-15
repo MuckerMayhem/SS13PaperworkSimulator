@@ -1,0 +1,69 @@
+[table][cell][h2]Wire Table[/h2][small]DATE: [date][/small]
+
+[grid][cell][table]
+[pre][small]
+[/small][/pre]
+[cell][center][h3]AIRLOCK[/h3] [field]
+
+[table][cell][b]FUNCTION[cell][b]WIRE
+[row][cell]Pri. Pwr 1[cell][field]
+[row][cell]Pri. Pwr 2[cell][field]
+[row][cell]Sec. Pwr 1[cell][field]
+[row][cell]Sec. Pwr 2[cell][field]
+[row][cell]Grounding[cell][field]
+[row][cell]Bolts[cell][field]
+[row][cell]Bolt Lights[cell][field]
+[row][cell]Motor[cell][field]
+[row][cell]Timer[cell][field]
+[row][cell]Prox. Sfty.[cell][field]
+[row][cell]Synth. Ctrl.[cell][field]
+[row][cell]ID Scanner[cell][field]
+[/table][/table][cell]
+
+
+
+[table][cell][center][h3]VENDOR[/h3] [field]
+
+[table][cell][b]FUNCTION[cell][b]WIRE
+[row][cell]Grounding[cell][field]
+[row][cell]Force Ctrl.[cell][field]
+[row][cell]Aux. Inv.[cell][field]
+[row][cell]ID Scanner[cell][field][/table][/table][table][cell][center][h3]LATHE[/h3] [field]
+
+[table][cell][b]FUNCTION[cell][b]WIRE
+[row][cell]Power[cell][field]
+[row][cell]Grounding[cell][field]
+[row][cell]Aux. Data[cell][field]
+[/table][/table][cell]
+
+
+
+[table][cell][center][h3]APC[/h3] [field]
+
+[table][cell][b]FUNCTION[cell][b]WIRE
+[row][cell]Power 1[cell][field]
+[row][cell]Power 2[cell][field]
+[row][cell]Synth. Ctrl.[cell][field]
+[row][cell]ID Scanner[cell][field]
+[/table][/table][table][cell][center][h3]RADIO[/h3] [field]
+
+[table][cell][b]FUNCTION[cell][b]WIRE
+[row][cell]Power[cell][field]
+[row][cell]Transmit[cell][field]
+[row][cell]Receive[cell][field]
+[/table][/table][cell][table][table][cell][center][h3]AIR ALARM[/h3] [field]
+
+[table][cell][b]FUNCTION[cell][b]WIRE
+[row][cell]Power[cell][field]
+[row][cell]Alarm[cell][field]
+[row][cell]Siphon[cell][field]
+[row][cell]Synth. Ctrl.[cell][field]
+[row][cell]ID Scanner[cell][field]
+[/table][/table][table][cell][center][h3]SMES[/h3] [field]
+
+[table][cell][b]FUNCTION[cell][b]WIRE
+[row][cell]Input[cell][field]
+[row][cell]Output[cell][field]
+[row][cell]Failsafe[cell][field]
+[row][cell]RCON[cell][field]
+[row][cell]Grounding[cell][field][/table][/table][/table][/table]
