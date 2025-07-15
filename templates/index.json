@@ -34,7 +34,7 @@
         "General Transmission": "command/transmission.txt",
         "Visa Issuing Form": "command/visa.txt",
         "Internal Communication": "command/internal_communication.txt",
-        "Discplinary Report": "command/disciplinary_report.txt",
+        "Disciplinary Report": "command/disciplinary_report.txt",
         "Equipment Transfer Form": "command/equipment_transfer_form.txt",
         "Funding Request": "command/funding_request.txt",
         "NJP Form": "command/njp_form.txt",
@@ -54,7 +54,7 @@
     "Engineering": {
         "Area Inspection": "engineering/compliance.txt",
         "Cyber Security Report": "engineering/cybersec_report.txt",
-        "General Status Report": "engineering/general_status.txt",
+        "Damage Control Report": "engineering/danage_control_report.txt",
         "General Wire Report": "engineering/general_wire_report.txt",
         "Secure Wire Report": "engineering/secure_wire_report.txt",
         "SM Watch Report": "engineering/sm_watch_report.txt",
