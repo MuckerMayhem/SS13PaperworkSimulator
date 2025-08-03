@@ -54,12 +54,12 @@
     "Engineering": {
         "Area Inspection": "engineering/compliance.txt",
         "Cyber Security Report": "engineering/cybersec_report.txt",
-        "Damage Control Report": "engineering/danage_control_report.txt",
+        "Damage Control Report": "engineering/damage_control_report.txt",
         "General Wire Report": "engineering/general_wire_report.txt",
         "Secure Wire Report": "engineering/secure_wire_report.txt",
         "SM Watch Report": "engineering/sm_watch_report.txt",
         "Robotics": {
-            "Modification Log": "engineering/robotics_modification_log.txt"
+            "Modification Log": "engineering/robotics/robotics_modification_form.txt"
         }
     },
     "Exploration": {
