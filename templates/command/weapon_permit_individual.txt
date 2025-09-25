@@ -1,0 +1,27 @@
+[small][table][cell][center][h1][fontgreen]S.E.V.
+[logo]
+TORCH
+[cell][pre][small]SWS210-PI[/pre][/small][hr][/pre][h2][center]Temporary Weapon Permit[/h2][hr]This permit is issued to
+[grid][cell]Name: [cell][field]
+[row][cell]Rank: [cell][field]
+[row][cell]Service #: [cell][field][/grid] 
+for the bearing & handling of the following weapon 
+& ammunition (if applicable)
+[grid][cell]Model: [cell][field]
+[row][cell]Serial #: [cell][field]
+[row][cell]Rounds: [cell][field][/grid]
+at the request of
+[grid][cell]Initials: [cell][field]
+[row][cell]Rank: [cell][field]
+[row][cell]Service #: [cell][field][/grid]
+for the following reason:
+[field]
+[hr][i]Submit a copy of this permit to shipboard security.
+Each weapon issued requires a discrete permit.[/i]
+
+Batch Identifier (if applicable): [field]
+Date & time of issue: [field]
+Date & time of expiry: [field]
+
+Signature (CO or XO): [field]
+Stamp (CO or XO) here to authorize.[/small][/table]
