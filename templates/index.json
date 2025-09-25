@@ -39,6 +39,7 @@
         "Funding Request": "command/funding_request.txt",
         "NJP Form": "command/njp_form.txt",
         "Weapon Permit (Individual)": "command/weapon_permit_individual.txt",
+        "Weapon Permit (Department)": "command/weapon_permit_department.txt",
         "Command (EXO)": {
             "Complaint (EXO Personnel)": "command/exo/complaint_exo.txt",
             "Complaint (Non-EXO Personnel)": "command/exo/complaint_nexo.txt",

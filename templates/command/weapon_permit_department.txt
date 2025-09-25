@@ -1,0 +1,33 @@
+[table][cell][pre]SWS211-E1[/pre][center][h2]Notice of Departmental Weapons Distribution[/h2][/center][hr][center][grid][cell][center]Date & time
+of issue [cell][cell][center]Date & time
+of expiry 
+[row][center][cell][center][field][cell][cell][center][field]
+[row][cell][cell][center]Batch
+Identifier
+[field][/grid]
+[center][grid][cell]Department: [field]
+Personnel issued weapons:[table][cell][center]Name[cell][center]Rank[cell][center]Weapon 1[cell][center]Weapon 2[cell][center]Returned
+[row][cell][field][cell][field][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][cell][field][cell][field]
+[row][cell][field][cell][field][cell][field][cell][field][cell][field][/table][/grid][row][cell]Reason for weapons distribution: 
+[field]
+[row][cell][small][i]Regulations:
+1. The Commanding Officer & the Executive Officer may issue weapons to [b]uniformed[/b] crewmembers at will, giving notice to the Security Department verbally & in writing.
+2. The Security Officer may issue weapons from the Security Armory to security personnel, or delegate the authority to do so, if: 
+- a. A tangible threat is present, or 
+- b. Security personnel are to accompany an away team.
+
+3. In the event that the Security Officer, Executive Officer, [b]and[/b] Commanding Officer are unavailable, the "Brig Chief" may issue weapons from the Security Armory.
+- a. In the event of the above, the "Brig Chief" must notify the Command Duty Officer ("Ranking Officer in Charge") of weapons issued forthwith.
+- b. If a Security Officer, Executive Officer or Commanding Officer later becomes available, said officer must be notified forthwith.
+
+4. Except in officially declared emergency conditions, a copy of this form not including time of return must be made available to the Security Departmental Supervisor.
+5. In the case of officially declared emergency conditions, a copy of this completed form must be made available to the Security Department after the situation is resolved.
+6. This form is intended for simultaneous weapons distribution to multiple personnel. Individual issue of weapons should be accomplished via an SWS210-PI permit.
+7. The SWS210-PI permit may be issued in conjunction with this form for the sake of authentication. Use the Batch Identifier field to identify permits thusly issued.
+8. Stamp (Executive or Commanding) this form when all weapons distributed are marked as returned.
+[/i][/small][/table]
