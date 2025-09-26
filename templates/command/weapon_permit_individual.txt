@@ -5,8 +5,8 @@ TORCH
 [grid][cell]Name: [cell][field]
 [row][cell]Rank: [cell][field]
 [row][cell]Service #: [cell][field][/grid] 
-for the bearing & handling of the following weapon 
-& ammunition (if applicable)
+for the bearing & handling of the following
+weapon & ammunition (if applicable)
 [grid][cell]Model: [cell][field]
 [row][cell]Serial #: [cell][field]
 [row][cell]Rounds: [cell][field][/grid]

@@ -25,7 +25,7 @@ Personnel issued weapons:[table][cell][center]Name[cell][center]Rank[cell][cente
 - a. In the event of the above, the "Brig Chief" must notify the Command Duty Officer ("Ranking Officer in Charge") of weapons issued forthwith.
 - b. If a Security Officer, Executive Officer or Commanding Officer later becomes available, said officer must be notified forthwith.
 
-4. Except in officially declared emergency conditions, a copy of this form not including time of return must be made available to the Security Departmental Supervisor.
+4. Except in officially declared emergency conditions, a copy of this form, not including the time of return, must be made available to the Security Departmental Supervisor.
 5. In the case of officially declared emergency conditions, a copy of this completed form must be made available to the Security Department after the situation is resolved.
 6. This form is intended for simultaneous weapons distribution to multiple personnel. Individual issue of weapons should be accomplished via an SWS210-PI permit.
 7. The SWS210-PI permit may be issued in conjunction with this form for the sake of authentication. Use the Batch Identifier field to identify permits thusly issued.
