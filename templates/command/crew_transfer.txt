@@ -1,33 +1,25 @@
-[center][solcrest][logo][/center]
-[large][i][center]SEV Torch - Office of the Executive Officer[/center][/i][br]
-[small][center]YOUR RANK YOUR NAME[/center][/small]
-[center][b][i]Crew Transfer Application - CTA-SGF01[/i][/b][/center][/large]
-[hr][br]
+[table][cell][grid][cell][center][eclogo][/center][cell][h2]DTA-HP02
+Duty Transfer Request[/table][row][cell][center][grid][cell]Applicant Details:
+[small][fontred]N/A if field not applicable.[/small][/font]
+[table][cell]Name[cell][field]
+[row][cell]Rank/Rate [cell][field]
+[row][cell]Organization [cell][field][/table][cell]Application Details:
 
-[small]Print your full ID name, and rank and branch, if applicable.[/small][br]
-Rank: [u][field][/u][br]
-Applicant: [u][field][/u][br]
-Organization: [u][field][/u][br]
-[br]
-Time applied: [u][field][/u][br]
-Present position: [u][field][/u][br]
-Requested position: [u][field][/u]
+[table][row][cell]Current Position [cell][field]
+[row][cell]Requested Position [cell][field]
+[row][cell]Date of Application [cell][field][/table][/table]
+[row][cell]Reason for Duty Transfer: 
 
-[hr]
+[u][field][/u]
 
-Reason stated: [u][field][/u]
+[small]Applicant signature:[/small] [u][field][/u]
+[row][cell][grid][cell][table][cell][h3][fontgreen][pre]APPROVED[cell][h3][fontred][pre] DENIED [row][cell][center][field][cell][center][field][/table][cell]|
 
-[hr]
+|
 
-[small]The following fields render the document invalid if not [b]signed clearly[/b].[/small][br]
-Applicant signature: [u][field][/u][br]
-Executive Officer: [u][field][/u]
-[hr]
+|[cell]Reason for Approval/Denial:
 
-[small]The following fields are for the executive officer only.[/small][br]
-Date filed: [u][date][/u][br]
+[field]
 
-Number of personnel in present/previous position: [u][field][/u][br]
-Number of personnel in requested position: [u][field][/u][br]
-Approved?: [u][field][/u]
-[hr]
+[small]Command signature: [/small][field]
+[small]Date of Approval/Denial: [/small][field][/table][/grid]
