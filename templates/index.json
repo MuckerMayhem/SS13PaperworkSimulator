@@ -109,5 +109,8 @@
     "CM-SS13": {
         "W-Y Company Fax": "cm/companyfax.txt",
         "High Command Fax": "cm/commandfax.txt"
+    },
+    "Legacy Templates": {
+        "Crew Transfer": "legacy/crew_transfer.txt"
     }
 }
